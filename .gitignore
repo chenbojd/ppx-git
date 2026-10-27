@@ -1,0 +1,9 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.log
+Thumbs.db
+.DS_Store
